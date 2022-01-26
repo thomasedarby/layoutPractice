@@ -1,6 +1,6 @@
 :root {
 	--bg: #dcdde1;
-	--color-icon: #535c68;
+	--color-icon: #000;
 	--social-icon1: #fbad50;
 	--social-icon2: #1da1f2;
 	--social-icon3: #0077b5;
@@ -15,7 +15,6 @@
 
 .icon-list {
 	width: 100%;
-	padding: 1rem 0rem;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
